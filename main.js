@@ -48,6 +48,8 @@ alert("I am trying to learn from the Book " + book);
 
 document.write("Yah! I can write HTML content through JavaScript");
 
+document.write("<br>");
+
 alert("“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”")
 
 // VARIABLES FOR NUMBERS CHAPTER #3
